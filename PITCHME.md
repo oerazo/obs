@@ -1,12 +1,16 @@
-# Flux 
+# Devops @ Myob
 
-An application architecture for React
+An introduction to my devops Journey and steps going forward
 
 ---
 
-### Flux Design
+### Devops in a nutshell
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Devops has four important pillars that need to be followed for a successful implementation :
 
+ - Agile Practices
+ - Continuous Integration
+ - Continuous Delivery
+ - Observability
+
+---
